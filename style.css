@@ -1,0 +1,187 @@
+
+*{
+   margin:0px;
+   font-family: "Inter";
+
+}
+
+#titulo-superior {
+
+color: #FFF;
+font-family: Inter;
+font-size: 60px;
+margin-top: -150px;
+margin-left: 100px;
+
+}
+
+#Texto-superior {
+
+color: #FFF;
+margin: 50px;
+margin-left:150px;
+padding-bottom: 50px;
+margin-top: -80px;
+
+
+}
+
+#fundo-menusuperior {
+
+    background-image:url(imagens/fundo-menusuperior.svg);
+    width: 1495px;
+    height: 200px;
+    display: grid;
+
+}
+
+#menuinformacional {
+
+    background: #F9F9F9;
+    color: black;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    width: 1495px;
+    height: 229px;
+    margin-top: -50px;    
+  
+ 
+}
+
+
+#titulo-segundario {
+
+    letter-spacing: 1px;
+     margin-top: -350px;
+    font-size: 30px;
+    margin-left: 100px;
+}
+
+  
+
+
+
+#textoinformativo{
+
+
+    margin: 50px 50px 75px;
+    display: flex;
+    align-items: center;
+    margin-top: -50px;
+    text-align: center;
+
+
+}
+
+#layout1 {
+
+    margin-left: 120px;
+    font-size:  1rem; 
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+   letter-spacing: 1,5px;
+
+}
+    
+
+#layout2 {
+    font-size:  1rem; 
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+  
+  letter-spacing: 1,5px;
+}
+
+#layout3 {
+    font-size:  1rem; 
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1,5px;
+ }
+
+
+
+#texto-centro {
+
+    display: grid;
+    align-items: center;
+    margin-left: 100px;
+    margin-top: 20px;
+    font-size: 20px;
+    grid-column: auto;
+    text-align: justify;
+
+    
+}
+
+#imagem-partedebaixo {
+
+background-image: url(imagens/fundo-menusuperior.svg);
+width: 1495px;
+height: 638px;
+margin-top: 250px;
+
+
+}
+
+#imagem-padrão {
+     
+background-image: url(imagens/imagenarquiteto.svg);
+margin-top: 70px;
+margin-left: 900px;
+width: 510px;
+height: 605px;
+grid-column: auto;
+
+}
+
+#Texto-formulario {
+
+    text-align: center;
+    margin-top: -550px;
+    color: #FFF;
+    font-size: 15px;
+
+}
+
+#formulario {
+
+    text-align: center;
+    margin-top: 40px;
+    font-size: 3rem;
+    font-weight: bold;  
+     color: black;
+      }
+      
+
+#fale-Conosco
+ {
+
+cursor: pointer;
+color: black;
+background-color: #c07212;
+font-size: large 300px;
+}
+
+input  {
+
+      color: black;
+      font-size: 20px;
+      font-weight: bold;
+     border-radius: 10px;
+     
+  }
+  
+  button{
+
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 4px;
+
+  }
+
+
+
+  
